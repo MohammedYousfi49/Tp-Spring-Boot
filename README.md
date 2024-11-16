@@ -28,4 +28,6 @@ Avant de démarrer, assurez-vous que les éléments suivants sont installés sur
 - **Git** pour cloner le projet.
 
 - ## Video
+- https://github.com/user-attachments/assets/3d29d2e0-7cc9-427d-aa4c-55c8ca489298
+
 
